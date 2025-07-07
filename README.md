@@ -26,8 +26,8 @@ This project is a simple and interactive **blog generation app** powered by **Me
 ## 🛠️ Installation
 
 ## 1. Clone the repository
-- git clone <your-repo-url>
-- cd <your-project-folder>
+- git clone <(https://github.com/deepika-vishwakarma09/blog_generator.git)>
+- cd <BLOG_GENERATOR>
 ## 2. Create and activate virtual environment (recommended)
    - python -m venv blogenv
 - blogenv\Scripts\activate  # For Windows

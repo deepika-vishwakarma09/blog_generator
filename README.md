@@ -1,7 +1,7 @@
 
 # LLaMA 2 Blog Generator with Streamlit
 
-This project is a simple and interactive **blog generation app** powered by **Meta's LLaMA 2 7B** model (quantized `.bin` version). It uses `Streamlit` for the frontend and `LangChain` with `CTransformers` to run the model locally.
+This project is a simple and interactive **blog generation app** powered by **Meta's LLaMA 2 7B** model. It uses `Streamlit` for the frontend and `LangChain` with `CTransformers` to run the model locally.
 
     
 ## Features
